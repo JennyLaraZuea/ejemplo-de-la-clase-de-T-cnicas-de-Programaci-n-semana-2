@@ -1,1 +1,1 @@
-# ejemplo-de-la-clase-de-T-cnicas-de-Programaci-n-semana-2
+# ejemplo-de-la-clase-de-T-cnicas-de-Programaci-n
